@@ -94,5 +94,11 @@ Our framework consistently outperforms discriminative and LLM-based baselines ac
 If you use our dataset or useful in your research, please kindly cite our papers.
 
 ```
-
+@inproceedings{son2026table,
+  title={Table-Guided Hyperspherical Diffusion for Preserving Semantic Dependencies in Column Type Annotation},
+  author={Son, Wonseok and Park, Jeonghyeon and Chun, Sejin},
+  booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management},
+  pages={4441--4451},
+  year={2026}
+}
 ```
